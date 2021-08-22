@@ -1,0 +1,49 @@
+2
+Katie Nelson
+G
+Junior
+----
+4
+Liz Shean
+G
+Freshman
+----
+5
+Chiara Tibbitt
+F
+Sophomore
+----
+10
+Ashley Sieper
+F
+Sophomore
+----
+12
+Annabelle Larnard
+G
+Freshman
+----
+14
+Sydney Johnson
+G
+Freshman
+----
+20
+Nia Irving
+F
+Senior
+----
+21
+Emily Esposito
+G
+Redshirt Sophomore
+----
+22
+Maggie Pina
+G
+Freshman
+----
+23
+Tenisha Pressley
+G
+Junior
