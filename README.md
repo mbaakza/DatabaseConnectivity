@@ -2,6 +2,6 @@
 
 ## Java 
 
-## Populating the DB from an external file using
+## Connecting to and populating a DB from an external .txt file using:
 
 ## Prepared Statements, SQL, HashMap, ArrayList, Iterator, etc.
